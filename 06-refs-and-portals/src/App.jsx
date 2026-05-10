@@ -2,7 +2,7 @@ import Player from './components/Player.jsx';
 import TimerChallenge from './components/TimerChallenge.jsx';
 
 function App() {
-  console.log("Hello");
+  console.log("Hellodad");
   return (
     <>
       <Player />
